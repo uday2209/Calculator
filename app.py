@@ -19,10 +19,10 @@ if st.button("Calculate"):
     if option == "Addition":
         result = addition(a, b)
     if option == "Subtraction":
-        result == subtraction(a, b)
+        result = subtraction(a, b)
     if option == "Multiplication":
-        result == multiplication(a, b)
+        result = multiplication(a, b)
     if option == "Division":
-        result == division(a, b)
+        result = division(a, b)
         
     st.write(f"Result : {result}")
