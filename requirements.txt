@@ -1,0 +1,50 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+torchaudio
+xgboost
+lightgbm
+catboost
+
+# NLP
+spacy
+transformers
+sentencepiece
+nltk
+
+# Data Engineering
+pyarrow
+fastparquet
+dask
+polars
+
+# Deployment & APIs
+fastapi
+uvicorn
+flask
+
+# GenAI / LangChain
+langchain
+langchain-community
+openai
+tiktoken
+
+# Experiment Tracking & MLOps
+mlflow
+dvc
+docker
+
+# Utils
+python-dotenv
+joblib
+tqdm
